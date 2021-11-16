@@ -1,27 +1,30 @@
 # General
-## License 
+
+### License
 We ask the participants to work under the MIT licence so that we can re-use the code for future data pre-processing. 
 If participants used pre-existing code or work, they should credit the original author and be aware of licenses of the source. 
 If in doubt, contact [Jonathan de Bruin](https://github.com/J535D165).
 
-## Scoring form
+### Scoring form
 All proposed solutions will be assessed on the following key points:
-- Deliverables: were they submitted in time?
-- The proposed idea/solution as a concept
-- Cleanliness of code
-- Documentation of code
-- Structure of GitHub repository
-- Clearness of the readme (intended for someone with minimal coding experience) 
-- Re-usability of the script
-- Final Pitch/Presentation
-- Is the repository public
-- Track specific bonus
+1. Deliverables: were they submitted in time?
+2. The proposed idea/solution as a concept
+3. Cleanliness of code
+4. Documentation of code
+5. Structure of GitHub repository
+6. Clearness of the readme (intended for someone with minimal coding experience) 
+7. Re-usability of the script
+8. Final Pitch/Presentation
+9. Is the repository public
+10. Track specific bonus
 
 # Track specific information
 ## Track 1: Data pre-processing
+
+
 *Track Lead: Jelle Teijema*
 
-*Expert: TBA*
+*Track Expert: [Jonathan de Bruin](https://github.com/J535D165)*
 
 ### Background
 Before we can do anything with the data, for example in Track 2 and 3, there has to be some pre-processing. 
@@ -42,7 +45,6 @@ The anticipated output of Track 1 is a script that processes the raw data, as pr
 Rows in the data should be the different records (files/documents) and the there should be two columns:
 ‘title’: This could be the subject of a document or the title of an email.
 ‘abstract’: Containing the text in the document/email. 
-
 Moreover, the output file should either be in a tabular format with extensions .csv, .tab, .tsv, or .xlsx. CSV and TAB files are preferably comma, semicolon, 
 or tab-delimited. The preferred file encoding is UTF-8 or latin1.
 
@@ -52,9 +54,7 @@ It is completely up to you how the data is pre-processed, as long as it is clean
 Is the dataset cleaner than the one pre-processed by [Jelle Teijema](https://github.com/JTeijema)?
 
 ## Track 2: Visualization
-*Track Lead: Sofie van den Brand*
-
-*Expert: TBA*
+*Track moderator/expert: Sofie van den Brand & Laura Hofstee*
 
 ### Background
 Outside of reading all the documents, visualization is also a very useful tool to identify the relations between the documents. 
@@ -73,9 +73,9 @@ No presentation needed, the visualization should explain it all.
 Re-usability for future datasets of FTM.
 
 ## Track 3: Smart Screening
-*Track moderator: TBA*
+*Track moderator: Otto Mättas*
 
-*Experts: [Rens van de Schoot](https://www.rensvandeschoot.com/) & [Jonathan de Bruin](https://github.com/J535D165)*
+*Track expert: [Rens van de Schoot](https://www.rensvandeschoot.com/)*
 
 ### Background
 Follow the Money currently uses crowdsourcing to analyze all the different documents of the Shell Papers. This means that people can read any and all files in any order. 
