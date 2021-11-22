@@ -25,22 +25,23 @@ Take a look at [this blog post](https://chris.beams.io/posts/git-commit/) by Chr
 You can find the program of the hackathon [here](https://asreview.nl/academy/hackathon/#preliminary-hackathon-program).
 
 ### Deliverables deadlines
-During the hackathon, please be aware that there are some deliverable deadlines (which are also taken into account for the assessment of your work!!):
+During the hackathon, please be aware that there are some deliverable deadlines (which are also taken into account for the assessment of your work):
 
-1. Friday before 21:00: Submit your Team Name and Team captain* to asreview@uu.nl.
-2. Saturday before 10:30: Skeleton repository with the name as 'trackname_groupname_contentname'.
-3. Saturday from 13:30: Present your initial concept/idea in a pitch and get some feedback
-4. Sunday at 10:55: Github repository including:
+
+1. Friday before 21:00: Submit your Team Name and Team captain* via the Google Sheets document (the link will be sent by your track lead beforehand).
+2. Saturday before 10:30: Create an empty/skeleton repository within this GitHub organization. The name should have the following format 'trackname_groupname_contentname'. :octocat:
+4. Saturday from 13:30: Present your initial concept/idea in a pitch (max. 2 minutes) in the track-expert GatherTown Office and get some feedback from your track-expert. 💡
+5. Sunday at 10:55: Finalize your GitHub repository including:
     - readme
     - output: 
       - track 1: a clean dataset
       - track 2: art-work
       - track 3: a way of smart screening.
-    - Scripts
+    - scripts
     - (if applicable data) 
-5. Sunday from 11:00: Present your final work 🥳
+6. Sunday from 11:00: Present your final work in a 5 minute presentation! Presentations take place in the classroom part of your trackroom. 🥳
 
-*As a Team captain, you are the contact-person in your team. 
+*As a Team captain, you are the contact-person of your team. 
 
 ## Assessment
 All proposed solutions will be assessed on the following key points:
@@ -52,7 +53,7 @@ All proposed solutions will be assessed on the following key points:
 - Clearness of the readme (intended for someone with minimal coding experience) 
 - Re-usability of the script
 - Final Pitch/Presentation
-- Is the repository public
+- Is the repository public?
 - Track specific bonus
 
 
