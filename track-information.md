@@ -3,7 +3,7 @@
 ### License
 We ask the participants to work under the MIT licence so that we can re-use the code for future data pre-processing. 
 If participants used pre-existing code or work, they should credit the original author and be aware of licenses of the source. 
-If in doubt, contact [Jonathan de Bruin](https://github.com/J535D165).
+When in doubt, contact [Jonathan de Bruin](https://github.com/J535D165).
 
 ### Scoring form
 All proposed solutions will be assessed on the following key points:
@@ -17,6 +17,8 @@ All proposed solutions will be assessed on the following key points:
 8. Final Pitch/Presentation
 9. Is the repository public
 10. Track specific bonus
+
+Each key point is worth a maximum of 10 points, thus the maximum score is 100.
 
 # Track specific information
 ## Track 1: Data pre-processing
