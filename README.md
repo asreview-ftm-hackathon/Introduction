@@ -28,9 +28,9 @@ You can find the program of the hackathon [here](https://asreview.nl/academy/hac
 During the hackathon, please be aware that there are some deliverable deadlines (which are also taken into account for the assessment of your work!!):
 
 1. Friday before 21:00: Submit your Team Name and Team captain* to asreview@uu.nl.
-2. Saturday before 10:00: Skeleton repository with the name as 'trackname_groupname_contentname'.
-3. Saturday from 13:30: Present your initial concept/idea in a pitch.
-4. Sunday at 11:25: Github repository including:
+2. Saturday before 10:30: Skeleton repository with the name as 'trackname_groupname_contentname'.
+3. Saturday from 13:30: Present your initial concept/idea in a pitch and get some feedback
+4. Sunday at 10:55: Github repository including:
     - readme
     - output: 
       - track 1: a clean dataset
@@ -38,7 +38,7 @@ During the hackathon, please be aware that there are some deliverable deadlines 
       - track 3: a way of smart screening.
     - Scripts
     - (if applicable data) 
-5. Sunday from 11:30: Present your final work 🥳
+5. Sunday from 11:00: Present your final work 🥳
 
 *As a Team captain, you are the contact-person in your team. 
 
