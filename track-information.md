@@ -24,7 +24,7 @@ Each key point is worth a maximum of 10 points, thus the maximum score is 100.
 ## Track 1: Data pre-processing
 
 
-*Track Lead: Jelle Teijema*
+*Track Lead: [Jelle Teijema](https://github.com/JTeijema)*
 
 *Track Expert: [Jonathan de Bruin](https://github.com/J535D165)*
 
@@ -56,7 +56,7 @@ It is completely up to you how the data is pre-processed, as long as it is clean
 Is the dataset cleaner than the one pre-processed by [Jelle Teijema](https://github.com/JTeijema)?
 
 ## Track 2: Visualization
-*Track lead/expert: Sofie van den Brand & Laura Hofstee*
+*Track lead/expert: [Sofie van den Brand](https://github.com/SagevdBrand) & [Laura Hofstee](https://github.com/LHofstee)*
 
 ### Background
 Outside of reading all the documents, visualization is also a very useful tool to identify the relations between the documents. 
@@ -75,7 +75,7 @@ No presentation needed, the visualization should explain it all.
 Re-usability for future datasets of FTM.
 
 ## Track 3: Smart Screening
-*Track lead: Otto Mättas*
+*Track lead: [Otto Mättas](https://github.com/ottomattas)*
 
 *Track expert: [Rens van de Schoot](https://www.rensvandeschoot.com/)*
 
