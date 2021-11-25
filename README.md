@@ -31,13 +31,13 @@ During the hackathon, please be aware that there are some deliverable deadlines 
 1. Friday before 21:00: Submit your Team Name and Team captain* via the Google Sheets document (the link will be sent by your track lead beforehand).
 2. Saturday before 10:30: Create an empty/skeleton repository within this GitHub organization. The name should have the following format 'trackname_groupname_contentname'. :octocat:
 4. Saturday from 13:30: Present your initial concept/idea in a pitch (max. 2 minutes) in the track-expert GatherTown Office and get some feedback from your track-expert. 💡
-5. Sunday at 10:55: Finalize your GitHub repository including:
-    - readme
-    - output: 
+5. Sunday at 11:00: Finalize your GitHub repository including:
+    - Readme
+    - Output: 
       - track 1: a clean dataset
       - track 2: art-work
       - track 3: a way of smart screening.
-    - scripts
+    - Scripts
     - (if applicable data) 
 6. Sunday from 11:00: Present your final work in a 5 minute presentation! Presentations take place in the classroom part of your trackroom. 🥳
 
@@ -56,14 +56,15 @@ All proposed solutions will be assessed on the following key points:
 - Is the repository public?
 - Track specific bonus
 
+Each key point is worth a maximum of 10 points, thus the maximum score is 100.
 
 ## License 
-We ask the participants to work under the MIT licence so that we can re-use the code for future data pre-processing. 
+Participants are asked to work under the MIT licence so that the code can be re-used for future data pre-processing. 
 If participants used pre-existing code or work, they should credit the original author and be aware of licenses of the source. 
 If in doubt, contact [Jonathan de Bruin](https://github.com/J535D165).
 
 ## Code of Conduct
-During the event we find it very important to make you aware of our [code of conduct](https://github.com/asreview-ftm-hackathon/Introduction/blob/main/code-of-conduct.md). 
+During the event, please be aware of the [code of conduct](https://github.com/asreview-ftm-hackathon/Introduction/blob/main/code-of-conduct.md). 
 This code of conduct is based on the [Hack code of conduct](https://hackcodeofconduct.org/index.html), with some minor adaptations.
 The quick version can be found below.
  
