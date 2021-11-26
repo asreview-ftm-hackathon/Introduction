@@ -103,3 +103,5 @@ at the discretion of the hackathon organisers.
 ```
 
 🎊 Enjoy the Hackathon!! 🎊
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rubber_duck.svg" width="50" height="50">
