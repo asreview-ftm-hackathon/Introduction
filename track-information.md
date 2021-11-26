@@ -86,7 +86,7 @@ Follow the Money currently uses crowdsourcing to analyze all the different docum
 The goal of the third track is to provide FTM with a pipeline that allows for faster screening of the documents. For example, instead of randomly reading one document after another, it would be far more helpful to read documents ranked by, for example, relevance.  One option  is to create a plug-in for ASReview like we did for the covid-19 dataset. Do you have any other cool ideas about what could be done with the data, or if you have completely different ideas on how to use ASReview? Go for it, let’s hack ASReview!
 
 ### Provided materials 
-For this track participants can use one or all of the datasets we prepared sets. This data is actually [constructed out of the first dataset](link to dataset creation). The 10 datasets resemble the many different [datasets FTM will eventually collect](https://www.ftm.nl/dossier/shell-papers#wob-verzoeken). 
+For this track participants can use one or all of the [datasets we prepared](https://github.com/asreview-ftm-hackathon/Data). This data is actually [constructed out of the first dataset](https://github.com/ftmnl/asr). The 10 datasets resemble the many different [datasets FTM will eventually collect](https://www.ftm.nl/dossier/shell-papers#wob-verzoeken). 
 
 ### Scoring bonus points
 Does the pipeline make multiple datasets available?
