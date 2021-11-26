@@ -16,7 +16,7 @@ In this GitHub organization you can find the following repositories:
 - [Example for visualization track](https://github.com/asreview-ftm-hackathon/Example-for-visualization-track): Not sure where to start for this track? Take a look at this repository for inspiration!
 
 ### Naming your repository:
-Please use the following name structure for your repository: trackname-teamname-one-word-description
+Please use the following name structure for your repository: `trackname_groupname_contentname`
 
 ## Commits to your repository
 Take a look at [this blog post](https://chris.beams.io/posts/git-commit/) by Chris Beams to learn more about how to write better git commit messages!
