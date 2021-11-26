@@ -50,7 +50,7 @@ Rows in the data should be the different records (files/documents) and the there
 Moreover, the output file should either be in a tabular format with extensions .csv, .tab, .tsv, or .xlsx. CSV and TAB files are preferably comma, semicolon, 
 or tab-delimited. The preferred file encoding is UTF-8 or latin1.
 
-It is completely up to you how the data is pre-processed, as long as it is cleaner than [the one Jelle Teijema prepared](link to dataset).
+It is completely up to you how the data is pre-processed, as long as it is cleaner than [the one Jelle Teijema prepared](https://github.com/asreview-ftm-hackathon/Data/tree/main/data).
 
 ### Scoring bonus points
 Is the dataset cleaner than the one pre-processed by [Jelle Teijema](https://github.com/JTeijema)?
@@ -60,7 +60,7 @@ Is the dataset cleaner than the one pre-processed by [Jelle Teijema](https://git
 
 ### Background
 Outside of reading all the documents, visualization is also a very useful tool to identify the relations between the documents. 
-From [semantic clusters](link to semantic cluster when done) (applied to the CORD-19 database for example) to [wordclouds](https://github.com/asreview/asreview-wordcloud) 
+From [semantic clusters](https://github.com/asreview-ftm-hackathon/Example-for-visualization-track) (applied to the CORD-19 database for example) to [wordclouds](https://github.com/asreview/asreview-wordcloud) 
 (for example as implemented in ASReview), a visualization can say more than 1000 words. 
 
 ### Provided materials 
