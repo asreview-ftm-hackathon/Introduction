@@ -64,7 +64,7 @@ From [semantic clusters](link to semantic cluster when done) (applied to the COR
 (for example as implemented in ASReview), a visualization can say more than 1000 words. 
 
 ### Provided materials 
-For this track participants can use the [pre-processed data](link here). 
+For this track participants can use the [pre-processed data](https://github.com/asreview-ftm-hackathon/Data). 
 
 ### Anticipated Output
 As visualization is a mainly creative track, there is no clear pre-defined anticipated output. 
