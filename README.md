@@ -2,6 +2,7 @@
 ## Welcome to the ASReview Hackathon for Follow the Money! :wave:
 
 Please read this document carefully before starting with the hackathon. 
+[Link to gather.town](https://gather.town/app/6K3Ghr8dysJMFPKF/asreview-hackathon-ftm)
 
 ## Repositories
 
